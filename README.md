@@ -4,9 +4,9 @@ Add your Favorite Code Snippet in any language.
 
 ## ❓ What is Hacktoberfest 2021?
 
-Hacktoberfest 2021 is a month long virtual festival event to celebrate open source contributions presented by Digital Ocean, Intel and DEV. It is the easiest way to get into open source!
+Hacktoberfest 2021 is a month-long virtual festival event to celebrate open-source contributions presented by Digital Ocean, Intel and DEV. It is the easiest way to get into open source!
 https://hacktoberfest.digitalocean.com/
-During the entire month of October 2021, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions. You don’t need to be an expert in programming or coding. It can be a be a bug fix, improvement, or even a documentation change! And win an awesome T-shirt and awesome stickers.
+During the entire month of October 2021, all you have to do is contribute to any open-source projects and open at least 4 pull requests. Yes, any project and any kind of contributions. You don’t need to be an expert in programming or coding. It can be a be a bug fix, improvement, or even a documentation change! And win an awesome T-shirt and awesome stickers.
 
 ## 😕 Why Should I Contribute?
 
@@ -14,7 +14,7 @@ The Hacktoberfest’s simple plain objective is:
 
     Support open source and earn a limited edition T-shirt!
 
-But, it’s not just about the t-shirts or stickers. Its about supporting open source. Its about celebrating open source, and giving it back. If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities (and yes, there are always plenty for beginners too).
+But, it’s not just about the t-shirts or stickers. It's about supporting open source. It's about celebrating open-source and giving it back. If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities (and yes, there are always plenty for beginners too).
 
 ## 👌 What Can I Contribute?
 
